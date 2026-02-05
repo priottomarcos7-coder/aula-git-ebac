@@ -2,10 +2,10 @@ Dados do aluno
 
 -Primeiro Nome: Marcos
 -Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Cidade: Chopinzinho
+-O que faz nas horas vaga: Edtudo e pratico esportes
+-Feedback sobre o curso Qualidade de Software: Um bom curso com aulas práticas muito boas
+-Feedback sobre a plataforma de estudo da EBAC: Otima interface e de fácil acesso
 
 Obrigado!!!
 
