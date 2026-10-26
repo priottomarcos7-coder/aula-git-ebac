@@ -15,3 +15,11 @@ Fique a vontade se não quiser responder todos os itens.
 -No commit coloque a mensagem: “Modificando o arquivo de dados”.
 
 -Compertilhe seu github conosco em nossa plataforma;
+
+---
+
+# English Version
+
+# Student Information
+
+Edit the information in the `dados.txt` file. Feel free to leave any fields unanswered if you prefer not to share that information.
